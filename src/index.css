@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.landing-image {
+  background: url('../public/assets/landing_image.png');
+}
