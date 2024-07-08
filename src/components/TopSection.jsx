@@ -3,7 +3,7 @@ import React from 'react';
 const TopSection = () => {
   return (
     <section className='relative bg-cover bg-center h-96 landing-image'>
-      <div className='container mx-auto px-4 py-16 h-full flex items-center'>
+      <div className='container mx-auto px-8 py-16 h-full flex items-center'>
         <div className='text-left'>
           <h1 className='text-5xl font-bold text-primary mb-4'>
             Stand Out in Bold Red Jacket

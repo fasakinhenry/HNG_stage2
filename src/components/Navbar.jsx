@@ -12,7 +12,7 @@ const Navbar = () => {
     <header className='bg-white shadow-md'>
       <div className='container mx-auto px-4 py-4 flex justify-between items-center'>
         <div className='flex items-center'>
-          <div className='text-red-600 text-2xl font-bold'>Find's Store</div>
+          <div className='text-primary text-2xl font-bold'>Find's Store</div>
         </div>
         <div className='flex items-center space-x-4'>
           <input
