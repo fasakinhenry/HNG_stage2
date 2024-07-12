@@ -1,7 +1,6 @@
 # Timbu Cloud Shop (Stage 2 HNG internship task)
+
 ![screencapture-henry-hng-stage2-vercel-app-2024-07-12-02_14_28](https://github.com/user-attachments/assets/c948f9c6-42b5-45aa-84ae-f98834709409)
-
-
 
 The Timbu cloud shop is a Simple E-commerce website that allows users to view products, add them to cart and even check the product page. It was given to me during the HNG internship(HNG 11) in July 2024.
 
@@ -55,4 +54,13 @@ Google DocsGoogle Docs
 HNG Frontend Stage 2 Task Submission (23 kB)
 ```
 
+## Concepts and learnings💻🔥
 
+- I used that opportunity to learn Context and complex state management in React
+- I enriched my tailwind skills and that even made the site super responsive
+- Learnt a new style of importing images in REACT and unique folder structures
+
+## Important Links
+
+[View the website](https://henry-hng-stage2.vercel.app/)
+[HNG website](https://hng.tech/internship)
