@@ -64,3 +64,5 @@ HNG Frontend Stage 2 Task Submission (23 kB)
 
 [View the website](https://henry-hng-stage2.vercel.app/)
 [HNG website](https://hng.tech/internship)
+
+> Made with 💖 by [Fasakin Henry](https://github.com/fasakinhenry)
