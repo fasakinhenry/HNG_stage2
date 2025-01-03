@@ -11,7 +11,7 @@ const TopSection = () => {
           <p className='text-lg text-gray-700 mb-8'>
             Elevate Your Style with Our Bold Red Jacket
           </p>
-          <button className='px-6 py-3 bg-primary text-white'>Shop Now</button>
+          <button className='px-6 py-3 bg-primary text-white rounded-md'>Shop Now</button>
         </div>
       </div>
     </section>
